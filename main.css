@@ -1,0 +1,47 @@
+.navbar{
+ background: linear-gradient(to right, black 70%, white);
+}
+.navbar a .google{
+  width: 100px;
+}
+.navbar ul li a {
+  color: rgba(247, 188, 63, 0.808);
+  transition:all 0.5s;
+  margin: 0px 15px;
+}
+
+.navbar ul li a:hover {
+  background-color: white;
+  color: black;
+}
+
+
+#aboout-caption{
+  text-align: center;
+}
+.bg-a{
+  background: linear-gradient(to right,black 70% ,white);
+  color: aqua;
+}
+.our-gallery{
+  background: linear-gradient( to right,black 70% ,white);
+  margin-top: 50px;
+}
+.order-now{
+  width:40%;
+  margin-left: 100px;
+}
+input{
+  width:60%;
+}
+ul{
+  list-style-type: none;
+}
+.footer{
+background:linear-gradient(to right,black  70%,white);
+color: aqua;
+}
+.contact{
+  background:linear-gradient(to right,black  70%,white);
+  color: aqua;
+}
